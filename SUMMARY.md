@@ -1,4 +1,10 @@
 # Table of contents
 
-* [Fulfilment](README.md)
-* [Words](words.md)
+## Getting Started
+
+* [Hello](README.md)
+
+## Processes
+
+* [Fulfilment](processes/fulfilment.md)
+* [Words](processes/words.md)
