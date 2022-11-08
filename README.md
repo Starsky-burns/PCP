@@ -1,6 +1,5 @@
 ---
 description: hello
-layout: landing
 ---
 
 # Hello

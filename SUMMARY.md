@@ -6,5 +6,5 @@
 
 ## Processes
 
-* [Fulfilment](processes/fulfilment.md)
-* [Words](processes/words.md)
+* [Fulfilment](<README (1).md>)
+* [Words](words.md)
