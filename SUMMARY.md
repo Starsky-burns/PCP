@@ -2,10 +2,10 @@
 
 ## Getting Started
 
-* [Hello](README.md)
+* [👋 Hello](README.md)
 * [💸 The Creator Fund](getting-started/the-creator-fund.md)
 
 ## Processes
 
-* [Fulfilment](README.md)
+* [Fulfilment](<README (1).md>)
 * [Words](words.md)
