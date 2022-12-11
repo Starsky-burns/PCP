@@ -1,6 +1,6 @@
 # 💰 Pricing & Invoicing
 
-|               | Zine up to 200g | Zines up to 500g | Zines up to 1kg |
+| Destination   | Zine up to 200g | Zines up to 500g | Zines up to 1kg |
 | ------------- | --------------- | ---------------- | --------------- |
 | UK            | £3              | £5               | £5              |
 | EU            | £4              | £6               | £10             |
