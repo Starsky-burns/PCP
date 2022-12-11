@@ -12,7 +12,7 @@
 
 ## 📦 Fulfilment
 
-* [0. Hello!](fulfilment/0.-hello.md)
+* [👋 Hello!](fulfilment/hello.md)
 * [🙌 1. Getting Started](fulfilment/1.-getting-started.md)
 * [📮 2. Dropshipping - direct to customer](fulfilment/2.-dropshipping-direct-to-customer.md)
 * [🗄 3. Wholesale & Distribution](fulfilment/3.-wholesale-and-distribution.md)
