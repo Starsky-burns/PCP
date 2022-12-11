@@ -1,4 +1,14 @@
-# 🙌 1. Getting Started
+---
+coverY: 0
+---
+
+# 👋 Getting Started
+
+Welcome to our public fulfilment guide! This is designed to serve as a reference for how we do fulfilment at Peregrine Coast Press, what you can expect from us and what we expect from you 🙂
+
+{% hint style="info" %}
+These docs are a work in progress! Please let us know any comments or feedback so we can expand and improve them 😊
+{% endhint %}
 
 We’re always super excited when people reach out to us to arrange fulfilment, and we’ll do our best to help out!
 

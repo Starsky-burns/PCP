@@ -1,4 +1,4 @@
-# 📤 6. Goods Outbound
+# 📤 Goods Outbound
 
 You got a load of orders and you want to get those zines on their way to customers. Sounds good!
 

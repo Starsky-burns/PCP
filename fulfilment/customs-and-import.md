@@ -1,4 +1,4 @@
-# 💳 7. Customs and Import
+# 💳 Customs and Import
 
 If you’re sending us zines from overseas make sure to take note! Also note that we’re not lawyers, this isn’t legal advice and if you’re unsure please consult an appropriate professional 😅
 

@@ -1,4 +1,4 @@
-# ✈ 4. Consolidation & Forwarding
+# ✈ Consolidation & Forwarding
 
 We can consolidate and forward stock for you - receive it from printers and send it on with other orders we have going out. That’ll save you some cash, and do the environment a favour too!
 

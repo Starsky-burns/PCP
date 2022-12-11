@@ -1,4 +1,4 @@
-# 📮 2. Dropshipping - direct to customer
+# 📮 Dropshipping - direct to customer
 
 You run your store, we handle the packing and shipping for you! 💯
 

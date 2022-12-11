@@ -1,4 +1,4 @@
-# 🗄 3. Wholesale & Distribution
+# 🗄 Wholesale & Distribution
 
 We’ll hold stock on your behalf from your printers, and ship it out to stores on demand. Quick, easy and painless for you!
 
