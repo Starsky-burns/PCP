@@ -1,3 +1,6 @@
 # People we've worked with
 
-<table data-header-hidden><thead><tr><th></th><th></th><th></th><th data-type="files"></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/ukgc.png" alt=""></td><td><img src="../../.gitbook/assets/ukgc22.png" alt=""></td><td><img src="../../.gitbook/assets/hackathonsuk.png" alt=""></td><td><a href="../../.gitbook/assets/hacknotts.png">hacknotts.png</a></td></tr><tr><td><img src="../../.gitbook/assets/hacknotts.png" alt=""></td><td></td><td></td><td></td></tr><tr><td><img src="../../.gitbook/assets/lostincult.png" alt=""></td><td></td><td></td><td></td></tr></tbody></table>
+| ![](../../.gitbook/assets/ukgc.png)       | ![](../../.gitbook/assets/ukgc22.png) | ![](../../.gitbook/assets/hackathonsuk.png) |
+| ----------------------------------------- | ------------------------------------- | ------------------------------------------- |
+| ![](../../.gitbook/assets/hacknotts.png)  |                                       |                                             |
+| ![](../../.gitbook/assets/lostincult.png) |                                       |                                             |
