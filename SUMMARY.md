@@ -13,7 +13,8 @@
 
 ## 📦 Fulfilment
 
-* [👋 Getting Started](fulfilment/getting-started.md)
+* [👋 Getting Started](fulfilment/getting-started/README.md)
+  * [People we've worked with](fulfilment/getting-started/people-weve-worked-with.md)
 * [📮 Dropshipping - direct to customer](fulfilment/dropshipping-direct-to-customer.md)
 * [🗄 Wholesale & Distribution](fulfilment/wholesale-and-distribution.md)
 * [✈ Consolidation & Forwarding](fulfilment/consolidation-and-forwarding.md)
