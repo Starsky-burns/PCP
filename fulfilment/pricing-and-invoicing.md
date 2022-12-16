@@ -22,6 +22,21 @@ A box is a standard 29.5 x 23 x 19cm (these are fairly close to the boxes printe
 | 4          | £20/month    |   |
 | 5          | £22/month    |   |
 
+### Distribution 2023
+
+Distribution is in addition to storage, and is charged per 30kg box shipped within the UK. 
+
+| # of Boxes | Cost         |   |
+| ---------- | ------------ | - |
+| 1          | £15          |   |
+| 2          | £25          |   |
+| 3          | £35          |   |
+| 4          | £40          |   |
+| 5          | £45          |   |
+
+International distribution (includind customs cleared in the EU) is possible, but quoted for 
+individually to give you the most accurate and up to date cost. 
+
 ### Additional charges 2023
 
 | Category                                                               | Fee      |   |
