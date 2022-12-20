@@ -1,4 +1,4 @@
-# Claims
+# 💵 Claims
 
 We really want things to go right, but unfortunately things can go wrong and 
 it's important that we all understand how we'll resolve that when it happens. 
