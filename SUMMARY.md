@@ -25,3 +25,7 @@
 * [🤫 Privacy Policy](fulfilment/privacy-policy.md)
 * [🤔 Glossary](fulfilment/glossary.md)
 * [Claims](fulfilment/claims.md)
+
+## ✅ What we've been up to
+
+* [2022](what-weve-been-up-to/2022.md)
