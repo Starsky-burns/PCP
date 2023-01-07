@@ -1,7 +1,7 @@
 # 🤫 Privacy Policy
 
 {% hint style="info" %}
-This policy applies to data we collect from our customers (’clients’) who use our fulfilment services. The data subjects are generally the end customer, who has purchased from our clients.
+This policy applies to data we collect from our customers (’clients’) who use our fulfilment services. The data subjects are generally the end customer, who have purchased from our clients.
 {% endhint %}
 
 We work with various folks who want to send you an awesome product! Sometimes they collect your details directly and then pass them on to us. In other cases they will ask us to collect your details directly on their behalf.
@@ -23,10 +23,12 @@ We process this information for the purposes of:
 
 We will store your information securely and delete it within 6 months of the date of shipping. We keep it that long so we can get in contact with anyone whose package is returned.
 
-We store data about which items we shipped for which order identifier for a period of 6 years, for accountancy purposes.
+We store data about which items we shipped for which order identifier for a period of 6 years, for accountancy purposes. We use this to provide high level analytics - how many packages we shipped to how many countries. 
 
 We pass on your data to our carrier partners so they can deliver your package to you. We currently ship to individuals via Royal Mail.
 
 We'll also comply with any legal law enforcement or judicial requests to provide information, as required under UK law.
+
+We **do not** use your data for any other purpose such as advertising. 
 
 If you want to exercise any of your rights under the GDPR, please send us an email hello@peregreinecoast.press 🙂
