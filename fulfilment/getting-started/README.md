@@ -38,6 +38,6 @@ Some of the things we’re not really set up for just yet:
 
 We try to be flexible, so if there’s something you’re looking for help with then let us know and we can see if it’s something that is feasible!
 
-Once you’re looking to get started, send us an email over to fulfilment@peregrinecoast.press with more details about you need to ship (volume, dimensions, weight) and we’ll get the ball rolling.
+Once you’re looking to get started, send us an email over to [fulfilment@peregrinecoast.press](mailto:fulfilment@peregrinecoast.press) with more details about you need to ship (volume, dimensions, weight) and we’ll get the ball rolling.
 
 Check out the rest of the articles to get an idea of what that will look like 🙂
