@@ -22,6 +22,7 @@
 * [📤 Goods Outbound](fulfilment/goods-outbound.md)
 * [💳 Customs and Import](fulfilment/customs-and-import.md)
 * [💰 Pricing & Invoicing](fulfilment/pricing-and-invoicing.md)
+* [ZiMo 2023](fulfilment/zimo-2023.md)
 * [🤫 Privacy Policy](fulfilment/privacy-policy.md)
 * [🤔 Glossary](fulfilment/glossary.md)
 * [💵 Claims](fulfilment/claims.md)
