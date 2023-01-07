@@ -24,7 +24,7 @@
 * [💰 Pricing & Invoicing](fulfilment/pricing-and-invoicing.md)
 * [🤫 Privacy Policy](fulfilment/privacy-policy.md)
 * [🤔 Glossary](fulfilment/glossary.md)
-* [Claims](fulfilment/claims.md)
+* [💵 Claims](fulfilment/claims.md)
 
 ## ✅ What we've been up to
 
