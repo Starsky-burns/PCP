@@ -45,7 +45,9 @@ individually to give you the most accurate and up to date cost.
 | Photo of stock                                                         | £2/photo |
 | Shipment received without pre-advice                                   | £50      |
 | Invalid shipping data - chargeable for us to fix it                    | £15/hour |
-| Shipping return files - tracking (if available), weight etc.           | £10/file |
+| Shipping return files* - tracking (if available), weight etc.          | £10/file |
+
+\* Shipping returns files are included free of charge for any shipments with tracked items
 
 ### Invoicing
 
