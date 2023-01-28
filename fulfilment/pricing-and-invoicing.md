@@ -36,7 +36,32 @@ Additional items (eg. bookmarks, sticker sheets):
 
 ### EU DDP 
 
-Coming soon 👀
+We are able to offer DDP (Delivered Duty Paid) on both tracked and untracked orders to the
+following EU countries: 
+
+- Germany
+- France
+- The Republic of Ireland
+- Portugal
+- The Netherlands
+- Cyprus 
+- Malta
+- Austria
+
+We charge a flat **20% of declared value** to cover the import tax & duties of your zines, 
+and our additional administration costs associated with doing so. 
+
+Note that this is a **fixed** fee and doesn't vary based on local taxes or the goods 
+you're sending. This allows you to charge your backers a single percentage of tax for the 
+regions we support DDP to. 
+
+_**What is DDP?**_
+
+Usually we deliver items without customs charges or duty paid. The recipient receives notification
+from the postal service and pays the levied charges and an administration fee. With DDP, we pay
+any charges on your behalf before the border so your zines are delivered quicker, more reliably 
+and without the recipient having to take any action. 
+
 
 --- 
 
