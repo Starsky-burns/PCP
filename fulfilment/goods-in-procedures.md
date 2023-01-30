@@ -12,6 +12,8 @@ Once you know your item is shipping, fill out our pre-advice form:
 
 [Pre-Advice - Peregrine Coast Press Fulfilment](https://forms.gle/5be6mSikB23xuqw46)
 
+You will receive email confirmation and be able to edit your pre-advice if you make a mistake.
+
 **Note:** shipments that are received without a corresponding pre-advice will be chargeable, and may be rejected.
 
 ### ✔️ Checking
