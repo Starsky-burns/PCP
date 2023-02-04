@@ -24,6 +24,7 @@ Each file must contain (at least):
 * Quantity
 * Line item price
 * Order total price
+* Shipping option (see below)
 
 You can optionally include:
 
@@ -41,6 +42,27 @@ If you’re sending multiple SKUs in a single shipment, you should repeat the fo
 * Order ID (used to link the rows)
 * SKU
 * Quantity
+* Line item price
+
+### Shipping Option
+
+If you are choosing to send via an option other than untracked you should include the following shipping option codes:
+
+| Destination   | Untracked | Tracked | Untracked DDP | Tracked DDP |
+| ------------- | --------- | ------- | ------------- | ----------- |
+| UK            | CRL       | PF24    | N/A           | N/A         |
+| EU            | DG4       | MTK     | DE6           | MPR         |
+| Rest of World | DG4       | MTK     | DE6           | MPR         |
+
+We ship and invoice using these codes so it is important they are correct in your data.  
+
+### Order Total Price 
+
+You are responsible for ensuring this is accurate as it will be declared to customs authority on legal documents. 
+
+If we do not believe it is a true representation of the value of the goods we may be unable to ship your orders. 
+
+We use this field to calculate additional DDP fees due where applicable. 
 
 ### Sending us files
 
