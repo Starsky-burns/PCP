@@ -1,43 +1,4 @@
-# People we've worked with
+# 🤝 People we've worked with
 
-<div>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Spicy Tuna RPG</td><td></td><td><a href="../../.gitbook/assets/spicy tuna.jpg">spicy tuna.jpg</a></td><td><a href="https://spicytunarpg.com/">https://spicytunarpg.com/</a></td></tr><tr><td></td><td>Lost in Cult</td><td></td><td><a href="../../.gitbook/assets/lostincult.png">lostincult.png</a></td><td><a href="https://lostincult.com">https://lostincult.com</a></td></tr><tr><td></td><td>Hinokodo</td><td></td><td><a href="../../.gitbook/assets/profilephoto_round (1).png">profilephoto_round (1).png</a></td><td><a href="https://mimicpublishing.com/">https://mimicpublishing.com/</a></td></tr><tr><td></td><td>UKGovcamp</td><td></td><td><a href="../../.gitbook/assets/ukgc22.png">ukgc22.png</a></td><td><a href="https://www.ukgovcamp.com/">https://www.ukgovcamp.com/</a></td></tr><tr><td></td><td>Lost Ways Club</td><td></td><td><a href="../../.gitbook/assets/lostways+emblmes-05.png">lostways+emblmes-05.png</a></td><td><a href="https://www.lostwaysclub.com/">https://www.lostwaysclub.com/</a></td></tr><tr><td></td><td>Safe In Our World</td><td></td><td><a href="../../.gitbook/assets/SIOW_Logo_Secondary_Black_CC.jpg">SIOW_Logo_Secondary_Black_CC.jpg</a></td><td><a href="https://safeinourworld.org/">https://safeinourworld.org/</a></td></tr><tr><td></td><td>12 Pins Press</td><td></td><td><a href="../../.gitbook/assets/black.webp">black.webp</a></td><td><a href="https://twelvepinspress.com/">https://twelvepinspress.com/</a></td></tr><tr><td></td><td>The Lost Bay Studio</td><td></td><td><a href="../../.gitbook/assets/Logo.avif">Logo.avif</a></td><td><a href="https://www.thelostbaystudio.com/">https://www.thelostbaystudio.com/</a></td></tr><tr><td>And many more! </td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/spicy tuna.jpg" alt=""><figcaption><p>Spicy Tuna RPG</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Logo.avif" alt=""><figcaption><p>The Lost Bay Studio</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/lostways+emblmes-05.png" alt=""><figcaption><p>Lost Ways Club</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ukgc.png" alt=""><figcaption><p>UKGovcamp '21</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ukgc22.png" alt=""><figcaption><p>UKGovcamp '22</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ruh.png" alt=""><figcaption><p>&#x3C;R. U. Hacking?/></p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ygt.png" alt=""><figcaption><p>You Got This! </p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/lostincult.png" alt=""><figcaption><p>Lost in Cult</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/hacknotts.png" alt=""><figcaption><p>HackNotts</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/profilephoto_round.png" alt=""><figcaption><p>Hinokodo</p></figcaption></figure>
-
-</div>
