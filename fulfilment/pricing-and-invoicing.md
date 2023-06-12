@@ -1,25 +1,24 @@
 # 💰 Pricing & Invoicing
 
-## Fulfillment  
+{% hint style="info" %}
+Our pricing is changing soon. Please read our [blog post](https://www.peregrinecoast.press/fulfilment-changes-effective-july-2023/) for more information.
+{% endhint %}
 
-We'll pick, pack and ship your orders on your behalf. The single price includes all materials
-and shipping charges. We charge flat fees across the EU and internationally to make it easier
-for you to charge your customers the right price. 
+## Fulfillment
 
-**How the categories work** 
+We'll pick, pack and ship your orders on your behalf. The single price includes all materials and shipping charges. We charge flat fees across the EU and internationally to make it easier for you to charge your customers the right price.
 
-Category A is a single SKU (zine or bundle) up to 200g. Additional items can be added for 
-a fixed price. 
+**How the categories work**
 
-Category B and C include multiple SKUs up to the weight limit. 
+Category A is a single SKU (zine or bundle) up to 200g. Additional items can be added for a fixed price.
 
-_Note_ that we don't routinely do assembly of bundles (see below) so B & C are only for 
-the inclusion of multiple SKUs, and you'll need to provide us with the correct line item 
-data for all SKUs to be included in the orders. 
+Category B and C include multiple SKUs up to the weight limit.
 
-### Untracked 
+_Note_ that we don't routinely do assembly of bundles (see below) so B & C are only for the inclusion of multiple SKUs, and you'll need to provide us with the correct line item data for all SKUs to be included in the orders.
 
-Untracked airmail with no compensation. 
+### Untracked
+
+Untracked airmail with no compensation.
 
 | Destination   | A: Zine up to 200g | B: Items up to 400g | C: Items up to 1kg |
 | ------------- | ------------------ | ------------------- | ------------------ |
@@ -27,13 +26,14 @@ Untracked airmail with no compensation.
 | EU            | £4.50              | £6.50               | £10                |
 | Rest of World | £6                 | £9                  | £16                |
 
-Additional items (eg. bookmarks, sticker sheets): 
-- 50p UK 
-- 75p internationally
+Additional items (eg. bookmarks, sticker sheets):
 
-### Tracked 
+* 50p UK
+* 75p internationally
 
-Tracked airmail with compensation up to 50 GBP for loss or damage. 
+### Tracked
+
+Tracked airmail with compensation up to 50 GBP for loss or damage.
 
 | Destination   | A: Zine up to 200g | B: Items up to 400g | C: Items up to 1kg |
 | ------------- | ------------------ | ------------------- | ------------------ |
@@ -41,40 +41,33 @@ Tracked airmail with compensation up to 50 GBP for loss or damage.
 | EU            | £13                | £14                 | £15                |
 | Rest of World | £14                | £15                 | £18                |
 
-Additional items (eg. bookmarks, sticker sheets): 
-- Free within the UK 
-- 75p internationally
+Additional items (eg. bookmarks, sticker sheets):
 
-### EU DDP 
+* Free within the UK
+* 75p internationally
 
-We are able to offer DDP (Delivered Duty Paid) on both tracked and untracked orders to the
-following EU countries: 
+### EU DDP
 
-- Germany
-- France
-- The Republic of Ireland
-- Portugal
-- The Netherlands
-- Cyprus 
-- Malta
-- Austria
+We are able to offer DDP (Delivered Duty Paid) on both tracked and untracked orders to the following EU countries:
 
-We charge a flat **20% of declared value** to cover the import tax & duties of your zines, 
-and our additional administration costs associated with doing so. 
+* Germany
+* France
+* The Republic of Ireland
+* Portugal
+* The Netherlands
+* Cyprus
+* Malta
+* Austria
 
-Note that this is a **fixed** fee and doesn't vary based on local taxes or the goods 
-you're sending. This allows you to charge your backers a single percentage of tax for the 
-regions we support DDP to. 
+We charge a flat **20% of declared value** to cover the import tax & duties of your zines, and our additional administration costs associated with doing so.
+
+Note that this is a **fixed** fee and doesn't vary based on local taxes or the goods you're sending. This allows you to charge your backers a single percentage of tax for the regions we support DDP to.
 
 _**What is DDP?**_
 
-Usually we deliver items without customs charges or duty paid. The recipient receives notification
-from the postal service and pays the levied charges and an administration fee. With DDP, we pay
-any charges on your behalf before the border so your zines are delivered quicker, more reliably 
-and without the recipient having to take any action. 
+Usually we deliver items without customs charges or duty paid. The recipient receives notification from the postal service and pays the levied charges and an administration fee. With DDP, we pay any charges on your behalf before the border so your zines are delivered quicker, more reliably and without the recipient having to take any action.
 
-
---- 
+***
 
 Note: we can also quote based on individual circumstances, please [contact us](mailto:fulfilment@peregrinecoast.press) for a quote!
 
@@ -94,7 +87,7 @@ A box is a standard 29.5 x 23 x 19cm (these are fairly close to the boxes printe
 
 ## Distribution 2023
 
-Distribution is in addition to storage, and is charged per 30kg box shipped within the UK. 
+Distribution is in addition to storage, and is charged per 30kg box shipped within the UK.
 
 | # of Boxes | Cost |
 | ---------- | ---- |
@@ -104,15 +97,13 @@ Distribution is in addition to storage, and is charged per 30kg box shipped with
 | 4          | £40  |
 | 5          | £45  |
 
-International distribution (including customs cleared in the EU) is possible, but quoted for 
-individually to give you the most accurate and up to date cost. 
+International distribution (including customs cleared in the EU) is possible, but quoted for individually to give you the most accurate and up to date cost.
 
 ## Bundling and Assembly
 
-We don't routinely do assembly, however we do consider requests to help people out. 
+We don't routinely do assembly, however we do consider requests to help people out.
 
-Assembly is taking multiple items (eg. multiple zines, player sheets, stickers etc.) and 
-combining them into a single pack to be sold as a combined SKU. 
+Assembly is taking multiple items (eg. multiple zines, player sheets, stickers etc.) and combining them into a single pack to be sold as a combined SKU.
 
 Please [contact us](mailto:fulfilment@peregrinecoast.press) if you think you might need this!
 
@@ -124,7 +115,7 @@ Please [contact us](mailto:fulfilment@peregrinecoast.press) if you think you mig
 | Photo of stock                                                         | £2/photo |
 | Shipment received without pre-advice                                   | £50      |
 | Invalid shipping data - chargeable for us to fix it                    | £15/hour |
-| Shipping return files* - tracking (if available), weight etc.          | £10/file |
+| Shipping return files\* - tracking (if available), weight etc.         | £10/file |
 
 \* Shipping returns files are included free of charge for any shipments with tracked items
 
