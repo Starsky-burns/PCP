@@ -1,50 +1,48 @@
 # 💰 Pricing & Invoicing
 
 {% hint style="info" %}
-Our pricing is changing soon. Please read our [blog post](https://www.peregrinecoast.press/fulfilment-changes-effective-july-2023/) for more information.
+Our pricing has changed. Please read our [blog post](https://www.peregrinecoast.press/fulfilment-changes-effective-july-2023/) for more information.
 {% endhint %}
 
 ## Fulfillment
 
 We'll pick, pack and ship your orders on your behalf. The single price includes all materials and shipping charges. We charge flat fees across the EU and internationally to make it easier for you to charge your customers the right price.
 
-**How the categories work**
+**How the weight bands work**
 
-Category A is a single SKU (zine or bundle) up to 200g. Additional items can be added for a fixed price.
+Each band includes one item up to (not including) the next band.&#x20;
 
-Category B and C include multiple SKUs up to the weight limit.
+Additional items are charged at a flat £1.20 per item.&#x20;
 
-_Note_ that we don't routinely do assembly of bundles (see below) so B & C are only for the inclusion of multiple SKUs, and you'll need to provide us with the correct line item data for all SKUs to be included in the orders.
+An additional item could be:&#x20;
+
+* Multiple SKUs&#x20;
+* Single SKU with quantity > 1&#x20;
+* A combination of the two&#x20;
+
+**Remember** - everything must have a barcode. See [Goods In](goods-in-procedures.md) for more details.&#x20;
 
 ### Untracked
 
 Untracked airmail with no compensation.
 
-| Destination   | A: Zine up to 200g | B: Items up to 400g | C: Items up to 1kg |
-| ------------- | ------------------ | ------------------- | ------------------ |
-| UK            | £3                 | £5                  | £5                 |
-| EU            | £4.50              | £6.50               | £10                |
-| Rest of World | £6                 | £9                  | £16                |
+| Up to | UK Price | EU Price | ROW Price |
+| ----- | -------- | -------- | --------- |
+| 200g  | £4.50    | £6.20    | £9.50     |
+| 400g  | £4.70    | £7.30    | £9.50     |
+| 600g  | £5.30    | £9.50    | £15.00    |
+| 850g  | £6.20    | £10.60   | £17.20    |
 
-Additional items (eg. bookmarks, sticker sheets):
-
-* 50p UK
-* 75p internationally
-
-### Tracked
+Tracked
 
 Tracked airmail with compensation up to 50 GBP for loss or damage.
 
-| Destination   | A: Zine up to 200g | B: Items up to 400g | C: Items up to 1kg |
-| ------------- | ------------------ | ------------------- | ------------------ |
-| UK            | £10                | £10                 | £10                |
-| EU            | £13                | £14                 | £15                |
-| Rest of World | £14                | £15                 | £18                |
-
-Additional items (eg. bookmarks, sticker sheets):
-
-* Free within the UK
-* 75p internationally
+| Up to tracked | UK Price | EU Price | ROW Price |
+| ------------- | -------- | -------- | --------- |
+| 200g          | £10.30   | £11.20   | £11.70    |
+| 400g          | £10.30   | £11.20   | £12.80    |
+| 600g          | £10.30   | £11.70   | £15.00    |
+| 850g          | £10.30   | £12.80   | £17.20    |
 
 ### EU DDP
 
@@ -67,27 +65,21 @@ _**What is DDP?**_
 
 Usually we deliver items without customs charges or duty paid. The recipient receives notification from the postal service and pays the levied charges and an administration fee. With DDP, we pay any charges on your behalf before the border so your zines are delivered quicker, more reliably and without the recipient having to take any action.
 
-***
-
 Note: we can also quote based on individual circumstances, please [contact us](mailto:fulfilment@peregrinecoast.press) for a quote!
 
 ## Storage 2023
 
-Storage is chargeable monthly per SKU per box (minimum 1 SKU per box), above 1 free box.
+Storage is chargeable monthly per SKU per box (minimum 1 SKU per box).
 
 A box is a standard 29.5 x 23 x 19cm (these are fairly close to the boxes printers ship in).
 
 | # of additional boxes | Monthly cost |
 | --------------------- | ------------ |
-| 1                     | £10/month    |
-| 2                     | £15/month    |
-| 3                     | £17.5/month  |
-| 4                     | £20/month    |
-| 5                     | £22/month    |
+| Per box, flat fee     | £2.50/month  |
 
 ## Distribution 2023
 
-Distribution is in addition to storage, and is charged per 30kg box shipped within the UK.
+Distribution is in addition to storage, and is charged per 25kg box shipped within the UK. Additional SKUs included are charged at our standard additional item fee (per SKU, not per item, in this case)&#x20;
 
 | # of Boxes | Cost |
 | ---------- | ---- |
@@ -109,13 +101,13 @@ Please [contact us](mailto:fulfilment@peregrinecoast.press) if you think you mig
 
 ## Additional charges 2023
 
-| Category                                                               | Fee      |
-| ---------------------------------------------------------------------- | -------- |
-| Inventory of stock - counting stock in storage or received in goods in | £15/SKU  |
-| Photo of stock                                                         | £2/photo |
-| Shipment received without pre-advice                                   | £50      |
-| Invalid shipping data - chargeable for us to fix it                    | £15/hour |
-| Shipping return files\* - tracking (if available), weight etc.         | £10/file |
+| Category                                                               | Fee          |
+| ---------------------------------------------------------------------- | ------------ |
+| Inventory of stock - counting stock in storage or received in goods in | £5/SKU       |
+| Shipment received without pre-advice                                   | £50          |
+| Invalid shipping data - chargeable for us to fix it                    | £15/hour     |
+| Shipping return files\* - tracking (if available), weight etc.         | £10/file     |
+| Barcoding items - inclusive of time and materials                      | 60p per item |
 
 \* Shipping returns files are included free of charge for any shipments with tracked items
 
@@ -124,3 +116,11 @@ Please [contact us](mailto:fulfilment@peregrinecoast.press) if you think you mig
 We invoice monthly on 30 day terms in GBP. For bulk projects we invoice on completion, but may require a deposit.
 
 You can pay by bank transfer or by card.
+
+{% hint style="info" %}
+We can charge backers directly for shipping - check out [Crowdfunder Distribution](crowdfunder-distribution.md)
+{% endhint %}
+
+## Changes to pricing
+
+Please see our [Updates](updates.md) page for details on changes to pricing and contractural arrangements. Pricing on here may change - please make sure you check with us and **agree via email** if you require a fixed quote.&#x20;

@@ -16,17 +16,17 @@ We’re always super excited when people reach out to us to arrange fulfilment, 
 
 As a quick guide, here are the things we’re good at:
 
-✅ Bulk fulfilment for Kickstarters or crowdfunding
+[✅ Bulk fulfilment for Kickstarters or crowdfunding](../crowdfunder-distribution.md)
 
-✅ On-demand fulfilment to customers (ie. dropshipping)
+:hourglass\_flowing\_sand: On-demand fulfilment to customers (ie. dropshipping) - _we're talking a pause on this right now_
 
 ✅ Receiving, itemising and storing stock from printers
 
-✅ Distribution and shipping wholesale orders to other shops
+[✅ Distribution and shipping wholesale orders to other shops](../wholesale-and-distribution.md)
 
 ✅ Export, including handling customs into the EU
 
-✅ Consolidation and forwarding
+[✅ Consolidation and forwarding](../consolidation-and-forwarding.md)
 
 ✅ Pallet handling & freight
 

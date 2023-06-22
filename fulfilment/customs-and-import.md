@@ -18,6 +18,12 @@ For zines and books you should use 4901990000.
 
 If you have other components (eg. stickers, patches) you **must** declare them separately unless they are pre-bundled (ie. sealed in with) a zine, and are making up a minor part of that bundle.
 
+### Contact Details
+
+Please make sure our address, email and phone number and correct and supplied to your shipping provider. This is super important so they can contact us for customs clearance.&#x20;
+
+You should also provide our EORI - just ask us for it via email.&#x20;
+
 ### Quantities and Values
 
 Please make sure you accurately inventory the correct quantity of items that are being imported.

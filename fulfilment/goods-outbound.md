@@ -12,7 +12,7 @@ We try not to be too prescriptive about this, but we do have requirements that n
 
 We accept CSVs using commas as column delimiters, and semi-colons as row delimiters.
 
-Each file must contain (at least):
+Each row must contain (at least):
 
 * Order ID
 * Name (first name/last name)
@@ -43,33 +43,22 @@ If you’re sending multiple SKUs in a single shipment, you should repeat the fo
 * SKU
 * Quantity
 * Line item price
+* Order total price
 
-### Shipping Option
+[Here's an example for you to check out!](https://docs.google.com/spreadsheets/d/1q6\_YUomR1TpgoccIUSOqoUHwcMHVf0Dkts31CrbbyFA/edit#gid=0)
 
-If you are choosing to send via an option other than untracked you should include the following shipping option codes:
+### Order Total Price
 
-| Destination   | Untracked | Tracked | Untracked DDP | Tracked DDP |
-| ------------- | --------- | ------- | ------------- | ----------- |
-| UK            | CRL       | PF24    | N/A           | N/A         |
-| EU            | DG4       | MTK     | DE6           | MPR         |
-| Rest of World | DG4       | MTK     | DE6           | MPR         |
+You are responsible for ensuring this is accurate as it will be declared to customs authority on legal documents.
 
-We ship and invoice using these codes so it is important they are correct in your data.  
+If we do not believe it is a true representation of the value of the goods we may be unable to ship your orders.
 
-### Order Total Price 
-
-You are responsible for ensuring this is accurate as it will be declared to customs authority on legal documents. 
-
-If we do not believe it is a true representation of the value of the goods we may be unable to ship your orders. 
-
-We use this field to calculate additional DDP fees due where applicable. 
+We use this field to calculate additional DDP fees due where applicable.
 
 ### Sending us files
 
-We’ll share a Google Drive folder with you, so you can upload your files, dated the day they have been generated.
-
-You just need to email us to let us know the file is there, and we’ll confirm the orders have shipped.
+Please share these with us via Google Drive (or equivilant). Email attachments aren't secure so _please_ avoid those!&#x20;
 
 ### Return files
 
-We can provide return files on request, if you’d like. These include tracking details (if the shipping product has them) and the additional information about the shipment (weight, size etc)
+We can provide return files on request. These include tracking details (if the shipping product has them) and the additional information about the shipment (weight, size etc)

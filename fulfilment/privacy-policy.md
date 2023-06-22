@@ -23,12 +23,12 @@ We process this information for the purposes of:
 
 We will store your information securely and delete it within 6 months of the date of shipping. We keep it that long so we can get in contact with anyone whose package is returned.
 
-We store data about which items we shipped for which order identifier for a period of 6 years, for accountancy purposes. We use this to provide high level analytics - how many packages we shipped to how many countries. 
+We store data about which items we shipped for which order identifier for a period of 6 years, for accountancy purposes. We use this to provide high level analytics - how many packages we shipped to how many countries.
 
-We pass on your data to our carrier partners so they can deliver your package to you. We currently ship to individuals via Royal Mail.
+We pass on your data to our shipping & carrier partners so they can deliver your package to you. We currently ship to individuals via Royal Mail, Parcelforce and DHL. We will also share your data with MEADS Ltd who we sub-contract warehouse operations to.
 
 We'll also comply with any legal law enforcement or judicial requests to provide information, as required under UK law.
 
-We **do not** use your data for any other purpose such as advertising. 
+We **do not** use your data for any other purpose such as advertising.
 
 If you want to exercise any of your rights under the GDPR, please send us an email hello@peregreinecoast.press 🙂
