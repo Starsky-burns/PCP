@@ -32,6 +32,7 @@ Untracked airmail with no compensation.
 | 400g  | £4.70    | £7.30    | £9.50     |
 | 600g  | £5.30    | £9.50    | £15.00    |
 | 850g  | £6.20    | £10.60   | £17.20    |
+| 1000g | £6.60    | £11.70   | £18.30    |
 
 Tracked
 
@@ -43,6 +44,7 @@ Tracked airmail with compensation up to 50 GBP for loss or damage.
 | 400g          | £10.30   | £11.20   | £12.80    |
 | 600g          | £10.30   | £11.70   | £15.00    |
 | 850g          | £10.30   | £12.80   | £17.20    |
+| 1000g         | £10.30   | 13.90    | £18.90    |
 
 ### EU DDP
 
