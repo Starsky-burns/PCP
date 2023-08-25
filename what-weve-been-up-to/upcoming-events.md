@@ -13,6 +13,10 @@ August 25-27, 2023\
 Dewers Centre\
 Perth, Scotland&#x20;
 
+[**ThoughtBubble**](https://www.thoughtbubblefestival.com/)\
+November 11-12, 2023\
+Harrogate Convention Center
+
 [**Dragonmeet**](https://www.dragonmeet.co.uk/)\
 December 2, 2023\
 Novotel Hammersmith\
