@@ -13,6 +13,11 @@ August 25-27, 2023\
 Dewers Centre\
 Perth, Scotland&#x20;
 
+**Small Press Fest**\
+September 23, 2023\
+Kirkgate Market Kitchen\
+Leeds
+
 [**ThoughtBubble**](https://www.thoughtbubblefestival.com/)\
 November 11-12, 2023\
 Harrogate Convention Center
