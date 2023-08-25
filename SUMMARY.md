@@ -29,6 +29,7 @@
 
 ## ✅ What we've been up to
 
+* [Upcoming Events](what-weve-been-up-to/upcoming-events.md)
 * [2023](what-weve-been-up-to/2023/README.md)
   * [2023 Events](what-weve-been-up-to/2023/2023-events.md)
 * [2022](what-weve-been-up-to/2022.md)
