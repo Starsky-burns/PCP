@@ -10,17 +10,11 @@ We'll pick, pack and ship your orders on your behalf. The single price includes 
 
 **How the weight bands work**
 
-Each band includes one item up to (not including) the next band.&#x20;
+Each band includes one SKU up to (not including) the next band. It just applies to the weight of your items - we'll handle the packaging.
 
-Additional items are charged at a flat £1.20 per item.&#x20;
+Additional SKUs are charged at a flat £1.20 per additional pick.
 
-An additional item could be:&#x20;
-
-* Multiple SKUs&#x20;
-* Single SKU with quantity > 1&#x20;
-* A combination of the two&#x20;
-
-**Remember** - everything must have a barcode. See [Goods In](goods-in-procedures.md) for more details.&#x20;
+**Remember** - everything must have a barcode. See [Goods In](goods-in-procedures.md) for more details.
 
 ### Untracked
 
@@ -28,23 +22,23 @@ Untracked airmail with no compensation.
 
 | Up to | UK Price | EU Price | ROW Price |
 | ----- | -------- | -------- | --------- |
-| 200g  | £4.50    | £6.20    | £9.50     |
-| 400g  | £4.70    | £7.30    | £9.50     |
-| 600g  | £5.30    | £9.50    | £15.00    |
-| 850g  | £6.20    | £10.60   | £17.20    |
-| 1000g | £6.60    | £11.70   | £18.30    |
+| 200g  | £5.20    | £6.20    | £9.50     |
+| 400g  |          | £7.30    | £9.50     |
+| 500g  |          | £9.50    | £15.00    |
+| 800g  |          | £10.60   | £17.20    |
+| 1000g |          | £11.70   | £18.30    |
 
-Tracked
+### Tracked
 
 Tracked airmail with compensation up to 50 GBP for loss or damage.
 
 | Up to tracked | UK Price | EU Price | ROW Price |
 | ------------- | -------- | -------- | --------- |
-| 200g          | £10.30   | £11.20   | £11.70    |
-| 400g          | £10.30   | £11.20   | £12.80    |
-| 600g          | £10.30   | £11.70   | £15.00    |
-| 850g          | £10.30   | £12.80   | £17.20    |
-| 1000g         | £10.30   | 13.90    | £18.90    |
+| 200g          | £6.00    | £11.20   | £11.70    |
+| 400g          | £6.00    | £11.20   | £12.80    |
+| 500g          | £6.00    | £11.70   | £15.00    |
+| 800g          | £6.50    | £12.80   | £17.20    |
+| 1000g         | £6.50    | 13.90    | £18.90    |
 
 ### EU DDP
 
@@ -58,8 +52,12 @@ We are able to offer DDP (Delivered Duty Paid) on both tracked and untracked ord
 * Cyprus
 * Malta
 * Austria
+* Switzerland
+* Luxembourg
+* Norway
+* Sweden
 
-We charge a flat **20% of declared value** to cover the import tax & duties of your zines, and our additional administration costs associated with doing so.
+We charge a flat **25% of declared value** to cover the import tax & duties of your zines, and our additional administration costs associated with doing so.
 
 Note that this is a **fixed** fee and doesn't vary based on local taxes or the goods you're sending. This allows you to charge your backers a single percentage of tax for the regions we support DDP to.
 
@@ -81,7 +79,7 @@ A box is a standard 29.5 x 23 x 19cm (these are fairly close to the boxes printe
 
 ## Distribution 2023
 
-Distribution is in addition to storage, and is charged per 25kg box shipped within the UK. Additional SKUs included are charged at our standard additional item fee (per SKU, not per item, in this case)&#x20;
+Distribution is in addition to storage, and is charged per 25kg box shipped within the UK. Additional SKUs included are charged at our standard additional item fee (per SKU, not per item, in this case)
 
 | # of Boxes | Cost |
 | ---------- | ---- |
@@ -125,4 +123,4 @@ We can charge backers directly for shipping - check out [Crowdfunder Distributio
 
 ## Changes to pricing
 
-Please see our [Updates](updates.md) page for details on changes to pricing and contractural arrangements. Pricing on here may change - please make sure you check with us and **agree via email** if you require a fixed quote.&#x20;
+Please see our [Updates](updates.md) page for details on changes to pricing and contractural arrangements. Pricing on here may change - please make sure you check with us and **agree via email** if you require a fixed quote.

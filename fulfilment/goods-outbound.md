@@ -47,6 +47,10 @@ If you’re sending multiple SKUs in a single shipment, you should repeat the fo
 
 [Here's an example for you to check out!](https://docs.google.com/spreadsheets/d/1q6\_YUomR1TpgoccIUSOqoUHwcMHVf0Dkts31CrbbyFA/edit#gid=0)
 
+### Reformatting BackerKit / Kickstarter Data
+
+We're able to do this for you using some internal tooling we've developed. It's charged at our standard data reformatting rate.&#x20;
+
 ### Order Total Price
 
 You are responsible for ensuring this is accurate as it will be declared to customs authority on legal documents.
