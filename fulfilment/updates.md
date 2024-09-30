@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ℹ️ Updates
 
 We'll keep this set of documentation updated. You can see changes [here](https://github.com/Starsky-burns/PCP/commits/main).

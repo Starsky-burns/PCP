@@ -26,7 +26,7 @@ As a quick guide, here are the things we’re good at:
 
 ✅ Export, including handling customs into the EU
 
-[✅ Consolidation and forwarding](../consolidation-and-forwarding.md)
+[✅ Consolidation and forwarding](broken-reference)
 
 ✅ Pallet handling & freight
 

@@ -1,6 +1,6 @@
-# ➡ Goods-in Procedures
+# ➡️ Goods-in Procedures
 
-As you might expect, we get a lot of mail and it’s important that we keep track of exactly what is coming and going! 😅 We’ll try to keep this as lightweight and flexible as possible - we know you can’t always control how packages are sent to us.
+As you might expect, we get a lot of mail and it’s important that we keep track of exactly what is coming and going! We’ll try to keep this as lightweight and flexible as possible - we know you can’t always control how packages are sent to us.
 
 {% hint style="danger" %}
 You must have an agreement with us (via email) to hold a particular SKU before it is shipped to us. We're super flexible about this but **please don't** send us anything without prior agreement!
@@ -14,17 +14,7 @@ Take a copy and fill out [this template,](https://docs.google.com/spreadsheets/d
 
 We'll get the SKUs configured on our end and make sure all the customs data is set up properly.&#x20;
 
-#### :minidisc: Barcoding&#x20;
 
-Everything we receive **must** have a scanable barcode for books this can be an ISBN. Otherwise we'll generate a unique barcode for you when you send us the completed SKU template.&#x20;
-
-Non-ISBN barcodes should be GS1-128 format.&#x20;
-
-If you need us to barcode your stock then we'll need to sort that out. Our [pricing page](pricing-and-invoicing.md) has details of the costs associated with us doing this for you.
-
-{% hint style="info" %}
-**Why do you need barcodes?** All our stock is held in a large warehouse with semi-automated picking so everything needs a computer readable code to enable efficient inventory stocking, management and picking.&#x20;
-{% endhint %}
 
 ### 📄 Pre-Advice
 

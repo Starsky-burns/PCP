@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🤝 Our Manifesto
 
 What is life without the arts?
