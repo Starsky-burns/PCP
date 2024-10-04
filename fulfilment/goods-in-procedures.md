@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ➡️ Goods-in Procedures
 
 As you might expect, we get a lot of mail and it’s important that we keep track of exactly what is coming and going! We’ll try to keep this as lightweight and flexible as possible - we know you can’t always control how packages are sent to us.

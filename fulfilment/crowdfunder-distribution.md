@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🥳 Crowdfunder Distribution
 
 ### 🤔 How it works

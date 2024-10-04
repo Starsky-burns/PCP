@@ -18,17 +18,11 @@ As a quick guide, here are the things we’re good at:
 
 [✅ Bulk fulfilment for Kickstarters or crowdfunding](../crowdfunder-distribution.md)
 
-:hourglass\_flowing\_sand: On-demand fulfilment to customers (ie. dropshipping) - _we're talking a pause on this right now_
-
 ✅ Receiving, itemising and storing stock from printers
 
 [✅ Distribution and shipping wholesale orders to other shops](../wholesale-and-distribution.md)
 
-✅ Export, including handling customs into the EU
-
-[✅ Consolidation and forwarding](broken-reference)
-
-✅ Pallet handling & freight
+✅ Export, including handling customs into the E
 
 Some of the things we’re not really set up for just yet:
 
@@ -38,6 +32,6 @@ Some of the things we’re not really set up for just yet:
 
 We try to be flexible, so if there’s something you’re looking for help with then let us know and we can see if it’s something that is feasible!
 
-Once you’re looking to get started, send us an email over to [fulfilment@peregrinecoast.press](mailto:fulfilment@peregrinecoast.press) with more details about you need to ship (volume, dimensions, weight) and we’ll get the ball rolling.
+Once you’re looking to get started, send us an email over to store[@peregrinecoast.press](mailto:store@peregrinecoast.press) with more details about you need to ship (volume, dimensions, weight) and we’ll get the ball rolling.
 
 Check out the rest of the articles to get an idea of what that will look like 🙂
