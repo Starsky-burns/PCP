@@ -16,7 +16,7 @@
 * [➡️ Goods-in Procedures](fulfilment/goods-in-procedures.md)
 * [📤 Goods Outbound](fulfilment/goods-outbound.md)
 * [💳 Customs and Import](fulfilment/customs-and-import.md)
-* [💰 Pricing & Invoicing](fulfilment/pricing-and-invoicing.md)
+* [💰 Pricing](fulfilment/pricing-and-invoicing.md)
 * [🤫 Privacy Policy](fulfilment/privacy-policy.md)
 * [🤔 Glossary](fulfilment/glossary.md)
 * [💸 Claims](fulfilment/claims.md)

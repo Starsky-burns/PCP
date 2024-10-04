@@ -1,10 +1,6 @@
-# 💰 Pricing & Invoicing
+# 💰 Pricing
 
-{% hint style="info" %}
-Our pricing has changed. Please read our [blog post](https://www.peregrinecoast.press/fulfilment-changes-effective-july-2023/) for more information.
-{% endhint %}
-
-## Fulfillment
+## Fulfilment
 
 We'll pick, pack and ship your orders on your behalf. The single price includes all materials and shipping charges. We charge flat fees across the EU and internationally to make it easier for you to charge your customers the right price.
 
@@ -18,13 +14,7 @@ Additional SKUs are charged at a flat £1.20 per additional pick.
 
 Untracked airmail with no compensation.
 
-| Up to | UK Price | EU Price | ROW Price |
-| ----- | -------- | -------- | --------- |
-| 200g  | -        | £6.20    | £9.50     |
-| 400g  | -        | £7.30    | £9.50     |
-| 500g  | £4.50    | £9.50    | £15.00    |
-| 800g  | -        | £10.60   | £17.20    |
-| 1000g | £5.00    | £11.70   | £18.30    |
+<table><thead><tr><th>Up to</th><th width="120">UK Price</th><th width="97">EU Price</th><th>ROW Price</th><th>US Price</th></tr></thead><tbody><tr><td>200g</td><td>-</td><td>£5.5</td><td>£9.50</td><td>£8</td></tr><tr><td>400g</td><td>-</td><td>£6</td><td>£9.50</td><td>£11</td></tr><tr><td>500g</td><td>£4.50</td><td>£6.5</td><td>£15.00</td><td>£11</td></tr><tr><td>800g</td><td>-</td><td>£7.5</td><td>£17.20</td><td>£13</td></tr><tr><td>1000g</td><td>£5.00</td><td>£9</td><td>£18.30</td><td>£17</td></tr></tbody></table>
 
 ### EU DDP
 
@@ -45,21 +35,3 @@ We don't routinely do assembly, however we do consider requests to help people o
 Assembly is taking multiple items (eg. multiple zines, player sheets, stickers etc.) and combining them into a single pack to be sold as a combined SKU.
 
 Please [contact us](mailto:fulfilment@peregrinecoast.press) if you think you might need this!
-
-## Additional charges 2023
-
-| Category                                                               | Fee          |
-| ---------------------------------------------------------------------- | ------------ |
-| Inventory of stock - counting stock in storage or received in goods in | £5/SKU       |
-| Shipment received without pre-advice                                   | £50          |
-| Invalid shipping data - chargeable for us to fix it                    | £15/hour     |
-| Shipping return files\* - tracking (if available), weight etc.         | £10/file     |
-| Barcoding items - inclusive of time and materials                      | 60p per item |
-
-\* Shipping returns files are included free of charge for any shipments with tracked items
-
-## Invoicing
-
-We invoice monthly on 30 day terms in GBP. For bulk projects we invoice on completion, but may require a deposit.
-
-You can pay by bank transfer or by card.
